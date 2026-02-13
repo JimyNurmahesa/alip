@@ -17,7 +17,7 @@ const CONFIG = {
   collageSubtitle: 'Maaciii sayangg Buat semuanyaa. Selamat Valentine buat Alippp 💕',
   nextCollageButton: 'Satu halaman lagi… ',
   finalTitle: 'Happy Valentine, Sayanggg 💞',
-  finalMessage: `Maaccii lagi yaa sayangg buat semuanya, aku minta maaf sekarang ngga sama kamu, soalnya  aku juga blom pernah pulang heheheh,  hadiahnya juga virtual, seperti biasa ini project orang terus aku modif2 dikit maap yaaa ngga jago coding soalnya, ini buatnya Jumat, 13 Februari 2026 jam 19.24, aku juga minta maaf yaa kalo akhir2 ini aku ngeselin 🥹, aku sayangg sama kamu terus, kamu juga sayang aku terus yaa sama sehat selalu sayangg, oiya pas puasa nanti kita kan break dulu, kamu  dijaga mamnyaa, olahraga juga yaa, lovee uu sayangg . Happy Valentine dan selamat satu semester buat kitaa 💕`,
+  finalMessage: `Maaccii lagi yaa sayangg buat semuanya, aku minta maaf sekarang ngga sama kamu, soalnya  aku juga blom pernah pulang heheheh,  hadiahnya juga virtual, seperti biasa ini project orang terus aku modif2 dikit maap yaaa ngga jago coding soalnya, ini buatnya Jumat, 13 Februari 2026 jam 19.24, aku juga minta maaf yaa kalo akhir2 ini aku ngeselin 🥹, aku sayangg sama kamu terus, kamu juga sayang aku terus yaa, sama sehat selalu buat alipp, oiya pas puasa nanti kita kan break dulu, kamu  dijaga mamnyaa, olahraga juga yaa, lovee uu sayangg . Happy Valentine dan selamat satu semester buat kitaa 💕`,
   restartButton: 'Restart ',
   copyButton: 'Copy Message ',
   copySuccess: 'Pesan berhasil dicopy! ',
@@ -378,4 +378,5 @@ document.addEventListener('DOMContentLoaded', () => {
   new ParticleSystem();
   initMouseTrail();
 });
+
 
